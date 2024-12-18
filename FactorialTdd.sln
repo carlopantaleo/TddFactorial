@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialTdd", "FactorialTdd\FactorialTdd.csproj", "{DEE01611-EAB9-41EC-B004-E91F8F299120}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialTdd.Tests", "FactorialTdd.Tests\FactorialTdd.Tests.csproj", "{91EA834B-FF5B-4AC9-BA68-E91AAA0D996C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEE01611-EAB9-41EC-B004-E91F8F299120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEE01611-EAB9-41EC-B004-E91F8F299120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEE01611-EAB9-41EC-B004-E91F8F299120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEE01611-EAB9-41EC-B004-E91F8F299120}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91EA834B-FF5B-4AC9-BA68-E91AAA0D996C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91EA834B-FF5B-4AC9-BA68-E91AAA0D996C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91EA834B-FF5B-4AC9-BA68-E91AAA0D996C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91EA834B-FF5B-4AC9-BA68-E91AAA0D996C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
